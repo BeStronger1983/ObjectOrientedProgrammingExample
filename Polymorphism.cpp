@@ -1,3 +1,7 @@
+// 多型
+// 一個訊息（message or event or stimulus）的意義是由接收者（接收到這個訊息的物件）來解釋，而不是由訊息發出者（sender）來解釋。
+// 所以，在runtime時只要接受者換成不同的物件或是instance，系統的行為就會改變。具有這樣的特性就稱之為polymorphism。
+
 #include <iostream>
 
 using namespace std;
